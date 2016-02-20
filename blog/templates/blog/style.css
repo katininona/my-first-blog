@@ -1,0 +1,64 @@
+@charset "windows-1251";
+
+
+html 
+{
+	background-image: url('uzor.jpg'); no-repeat center center fixed;
+	background-size: cover;
+}
+body{margin:15px}
+
+.head
+{
+	text-align: center;
+	background: #ffffff;
+	color:#223423;
+	padding: 15px;
+	font-family: arial;
+	font: italic 40%;
+	border-radius: 50px;
+}
+
+.text
+{
+	text-align: center;
+	background: #ffffff;
+	color:#223423;
+	padding: 25px;
+	font-family: arial;
+	font: italic 100%;
+	border-radius: 50px;
+	width: 500px;
+	height: 135px;
+	position: absolute;
+    right: 15px;
+}
+.ss
+{
+	text-decoration:none;
+	text-align: center;
+	background: #ffffff;
+	color:#223423;
+	padding: 15px;
+	font-family: arial;
+	font: italic 40%;
+	border-radius: 50px;
+	position: absolute; 
+	top: 300px;
+	right: 15px;
+}
+
+.ss2
+{
+	text-align: center;
+	background: #ffffff;
+	color:#223423;
+	padding: 15px;
+	font-family: arial;
+	font: italic 40%;
+	border-radius: 50px;
+	position: absolute; 
+	top: 300px;
+	right: 290px;
+	text-decoration:none;
+}
